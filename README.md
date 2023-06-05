@@ -10,7 +10,7 @@ MEAN Stack Project to handle CRUD operations for Employees
 
 
 ## Output Screenshot :
-![ScreenshotofApp](["C:\Users\LENOVO\Desktop\prss1.png"](https://github.com/AgnikaRouth/EmployeeDB/blob/dev/prss1.png))
+![ScreenshotofApp](https://github.com/AgnikaRouth/EmployeeDB/blob/dev/prss1.png)
 
 ## To Run :
 
