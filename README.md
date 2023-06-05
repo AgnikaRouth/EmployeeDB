@@ -10,9 +10,9 @@ MEAN Stack Project to handle CRUD operations for Employees
 
 
 ## Output Screenshot :
-![Model]("C:\Users\LENOVO\Desktop\prss1.png")
+![ScreenshotofApp](["C:\Users\LENOVO\Desktop\prss1.png"](https://github.com/AgnikaRouth/EmployeeDB/blob/dev/prss1.png))
 
-### To Run :
+## To Run :
 
 1. npm i
 2. navigate to NodeJs folder and run in cmd line : nodemon index.js (localhost:3000/employees)
