@@ -15,5 +15,6 @@ MEAN Stack Project to handle CRUD operations for Employees
 ## To Run :
 
 1. npm i
-2. navigate to NodeJs folder and run in cmd line : nodemon index.js (localhost:3000/employees)
+2. navigate to NodeJs folder and run in cmd line : nodemon index.js / npm start (localhost:3000/employees)
 3. in another cmd terminal, navigate to AngularApp and run this : ng s (localhost:4200/employee)
+
