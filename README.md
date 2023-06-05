@@ -10,9 +10,11 @@ MEAN Stack Project to handle CRUD operations for Employees
 
 
 ## Output Screenshot :
-![ScreenshotofApp](https://github.com/AgnikaRouth/EmployeeDB/blob/dev/prss1.png)
+![prss1](https://github.com/AgnikaRouth/EmployeeDB/assets/45993797/808ba0ba-0002-4b45-83be-899b480df4ec)
+
 ## Output Video :
-![VideoofApp](https://github.com/AgnikaRouth/EmployeeDB/blob/dev/MEANVid.mp4)
+https://github.com/AgnikaRouth/EmployeeDB/assets/45993797/18f39476-61c0-46dd-b996-c355e2be7053
+
 
 ## To Run :
 
